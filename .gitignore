@@ -2,8 +2,15 @@
 build/
 
 # Ignore Gradle GUI config
-gradle-app.settinga
+gradle-app.setting
 
 *.ipr
 *.iws
 *.iml
+/bin/
+
+# Ignore Eclipse files
+.settings/
+.project
+.classpath
+

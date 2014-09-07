@@ -15,11 +15,12 @@ apply plugin: 'idea'
 apply plugin: 'spring-boot'
 
 jar {
-    baseName = 'gs-spring-boot'
+    baseName = 'spring-mail-service'
     version =  '0.1.0'
 }
 
 repositories {
+    mavenLocal()
     mavenCentral()
 }
 
@@ -34,6 +35,8 @@ dependencies {
     compile("org.springframework.boot:spring-boot-starter-actuator")
     // end::actuator[]
     testCompile("junit:junit")
+    
+    provided "org.projectlombok:lombok:1.14.6"
 }
 
 task wrapper(type: Wrapper) {
