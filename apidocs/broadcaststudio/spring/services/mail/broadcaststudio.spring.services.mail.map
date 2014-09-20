@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node1_0" href="./MailServiceConfiguration.html" title="broadcaststudio.spring.services.mail.MailServiceConfiguration" alt="" coords="16,11,201,115"/>
+<area shape="rect" id="node1" href="./MailServiceConfiguration.html" title="&lt;TABLE&gt;" alt="" coords="5,5,212,120"/>
+<area shape="rect" id="node2_1" href="./MailService.html" title="broadcaststudio.spring.services.mail.MailService" alt="" coords="247,19,575,107"/>
+<area shape="rect" id="node2" href="./MailService.html" title="&lt;TABLE&gt;" alt="" coords="237,13,586,112"/>
+<area shape="rect" id="node3_2" href="./MailController.html" title="broadcaststudio.spring.services.mail.MailController" alt="" coords="621,11,1180,115"/>
+<area shape="rect" id="node3" href="./MailController.html" title="&lt;TABLE&gt;" alt="" coords="611,5,1191,120"/>
+</map>
